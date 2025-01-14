@@ -8,4 +8,4 @@ This is a project file for the output of a given demo video and code it in only 
 
 ## Screenshots
 
-![App Screenshot](/test/task1.png)
+![App Screenshot](task1.png)
